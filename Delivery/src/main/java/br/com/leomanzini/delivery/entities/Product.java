@@ -1,4 +1,4 @@
-package br.com.leomanzini.entities;
+package br.com.leomanzini.delivery.entities;
 
 public class Product {
 	
