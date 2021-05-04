@@ -1,4 +1,4 @@
-package br.com.leomanzini.entities;
+package br.com.leomanzini.delivery.entities;
 
 import java.time.Instant;
 import java.util.ArrayList;

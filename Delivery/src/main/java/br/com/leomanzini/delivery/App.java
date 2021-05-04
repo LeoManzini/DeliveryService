@@ -11,10 +11,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import br.com.leomanzini.delivery.db.Connector;
+import br.com.leomanzini.delivery.entities.Order;
+import br.com.leomanzini.delivery.entities.OrderStatus;
+import br.com.leomanzini.delivery.entities.Product;
 import br.com.leomanzini.delivery.utils.PropertiesLoader;
-import br.com.leomanzini.entities.Order;
-import br.com.leomanzini.entities.OrderStatus;
-import br.com.leomanzini.entities.Product;
 
 public class App {
 
